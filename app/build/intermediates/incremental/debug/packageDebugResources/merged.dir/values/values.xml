@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icon_background">#050505</color>
+    <style name="Theme.ChopTorch" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#FFD740</item><item name="android:navigationBarColor">#050505</item><item name="android:windowLightStatusBar">false</item><item name="android:statusBarColor">#050505</item></style>
+</resources>

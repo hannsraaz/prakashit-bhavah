@@ -1,0 +1,4 @@
+int color icon_background 0x0
+int drawable choptorch_icon_art 0x0
+int mipmap ic_launcher 0x0
+int style Theme_ChopTorch 0x0

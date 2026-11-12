@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hansraj.choptorch.gesture.ChopDetectorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-12T16:20:40.342Z" hostname="ULTRON" time="0.01">
+  <properties/>
+  <testcase name="opposite deliberate chops trigger once" classname="com.hansraj.choptorch.gesture.ChopDetectorTest" time="0.002"/>
+  <testcase name="accelerometer only works without gyro" classname="com.hansraj.choptorch.gesture.ChopDetectorTest" time="0.001"/>
+  <testcase name="ordinary movement ignored" classname="com.hansraj.choptorch.gesture.ChopDetectorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

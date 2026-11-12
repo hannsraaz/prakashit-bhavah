@@ -1,0 +1,5 @@
+com.hansraj.choptorch
+color icon_background
+drawable choptorch_icon_art
+mipmap ic_launcher
+style Theme_ChopTorch

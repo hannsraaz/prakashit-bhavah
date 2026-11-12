@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.hansraj.choptorch.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.hansraj.choptorch.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.hansraj.choptorch.app-debug-34:/drawable-nodpi_choptorch_icon_art.jpeg.flat",
+        "source": "com.hansraj.choptorch.app-main-36:/drawable-nodpi/choptorch_icon_art.jpeg"
+    }
+]
